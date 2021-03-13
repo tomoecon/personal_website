@@ -1,5 +1,5 @@
 name: "Tomoharu Mori"
-output_dir: "."
+output_dir: "docs"
 navbar:
   title: "Tomoharu Mori"
   left:
