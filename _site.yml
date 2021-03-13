@@ -1,0 +1,16 @@
+name: "Tomoharu Mori"
+output_dir: "."
+navbar:
+  title: "Tomoharu Mori"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Research"
+      href: research.html
+  right:
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/tomo_econ
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
