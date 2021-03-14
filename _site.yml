@@ -3,8 +3,6 @@ output_dir: "docs"
 navbar:
   title: "Tomoharu Mori"
   left:
-    - text: "Home"
-      href: index.html
     - text: "CV"
       href: cv.html
     - text: "Research"
