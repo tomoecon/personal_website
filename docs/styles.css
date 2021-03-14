@@ -1,16 +1,24 @@
-h1 {
-  font-size: 32px;
+body {
+  font-size: 16px;
+  line-height: 28px;
 }
-h1.title {
-  font-size: 32px;
+
+p {
+  line-height: 24px;
+}
+
+a {
+  color: dimgray;
+}
+
+h1 {
+  font-size: 28px;
 }
 h2 {
-  font-size: 28px;
+  font-size: 24px;
 }
 h3 {
   font-size: 20px;
-  font-style: italic;
-  font-weight: 100;
 }
 h4 {
   font-size: 20px;

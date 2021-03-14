@@ -5,12 +5,15 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "CV"
+      href: cv.html
     - text: "Research"
       href: research.html
-  right:
-    - icon: fa-twitter fa-lg
-      href: https://twitter.com/tomo_econ
+    - text: "日本語の記事等"
+      href: research_JPN.html
+    - text: "講義"
+      href: teaching.html
 output:
   html_document:
-    theme: paper
+    theme: simplex
     css: 'styles.css'
