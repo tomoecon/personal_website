@@ -9,6 +9,11 @@ pagetitle: "Tomoharu Mori"
 
 <br>
 
+- **Labor Supply Reaction to Wage Cuts and Tax Increases: A Real-Effort Experiment**
+  *FinanzArchiv/Public Finance Analysis*, Forthcoming.
+  (with Hirofumi Kurokawa and Fumio Ohtake) 
+  &nbsp;[Link](https://www.iser.osaka-u.ac.jp/library/dp/2020/DP1100.pdf)
+
 - **Is Financial Literacy Dangerous? Financial Literacy, Behavioral Factors, and Financial Choices of Households.**
   *Journal of the Japanese and International Economies*, 60, 101131, 2021.
   (with Tetsuya Kawamura, Taizo Motonishi, and Kazuhito Ogawa) 
@@ -29,10 +34,6 @@ pagetitle: "Tomoharu Mori"
 ## Working Papers
 
 <br>
-
-- **Labor Supply Reaction to Wage Cuts and Tax Increases: A Real-Effort Experiment**
-  (with Hirofumi Kurokawa and Fumio Ohtake)
-  &nbsp;[Link](https://www.iser.osaka-u.ac.jp/library/dp/2020/DP1100.pdf)
 
 - **Ambiguity and Loss aversion: The Effect of the Endowment and Windfall Losses on the Willingness to Pay for Insurance**
   (with Yasuhiro Nakamoto and Naoko Okuyama, *submitted*)
