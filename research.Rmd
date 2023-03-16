@@ -9,7 +9,7 @@ pagetitle: "Tomoharu Mori"
 
 <br>
 
-- **Loot box gambling and economic preferences: a survey analysis of Japanese adolescents and young adults**
+- **Loot Box Gambling and Economic Preferences: A Survey Analysis of Japanese Adolescents and Young Adults**
   *Applied Economics*, forthcoming.
   (with Tetsuya Kawamura, Yuhsuke Koyama, Taizo Motonishi, and Kazuhito Ogawa)
   &nbsp;[Link](https://doi.org/10.1080/00036846.2022.2138817)
@@ -29,7 +29,7 @@ pagetitle: "Tomoharu Mori"
   (with Tetsuya Kawamura, Taizo Motonishi, and Kazuhito Ogawa)
   &nbsp;[Link](https://doi.org/10.1016/j.jjie.2021.101131)
 
-- **A choice Experiment on Taxes: Are Income and Consumption Taxes Equivalent?**
+- **A Choice Experiment on Taxes: Are Income and Consumption Taxes Equivalent?**
   *Journal of Behavioral Economics and Finance*, 13, 53-70, 2020.
   (with Hirofumi Kurokawa and Fumio Ohtake) 
   &nbsp;[Link](https://doi.org/10.11167/jbef.13.53)
