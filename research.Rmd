@@ -15,7 +15,7 @@ pagetitle: "Tomoharu Mori"
   &nbsp;[Link]( https://doi.org/10.1111/boer.12448)
 
 - **Loot Box Gambling and Economic Preferences: A Survey Analysis of Japanese Adolescents and Young Adults**
-  *Applied Economics*, 55(44), 5213–5229.
+  *Applied Economics*, 55(44), 5213–5229, 2023.
   (with Tetsuya Kawamura, Yuhsuke Koyama, Taizo Motonishi, and Kazuhito Ogawa)
   &nbsp;[Link](https://doi.org/10.1080/00036846.2022.2138817)
   
