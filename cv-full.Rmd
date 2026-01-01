@@ -1,0 +1,258 @@
+---
+title: ""
+author: ""
+date: ""
+output:
+  pdf_document:
+    latex_engine: xelatex
+    keep_tex: false
+fontsize: 11pt
+geometry: margin=1in
+mainfont: "Palatino"
+header-includes:
+  - \usepackage{titlesec}
+  - \usepackage{enumitem}
+  - \usepackage{hyperref}
+  - \titleformat{\section}{\large\bfseries}{\thesection}{1em}{}[\titlerule]
+  - \titleformat{\subsection}{\normalsize\bfseries}{\thesubsection}{1em}{}
+  - \titlespacing{\section}{0pt}{12pt}{6pt}
+  - \titlespacing{\subsection}{0pt}{8pt}{4pt}
+  - \setlist{noitemsep, topsep=0pt, partopsep=0pt, parsep=0pt}
+  - \pagenumbering{arabic}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+```
+
+\begin{center}
+{\LARGE\textbf{Tomoharu Mori}}\\[0.3cm]
+{\large Associate Professor}\\[0.2cm]
+College of Comprehensive Psychology, Ritsumeikan University\\
+2-150 Iwakura-cho, Ibaraki, Osaka 567-8570, JAPAN\\
+Email: tmr15047@fc.ritsumei.ac.jp
+\end{center}
+
+\vspace{0.3cm}
+
+# Personal
+
+Born: July 1986
+
+Citizenship: Japan
+
+# Education
+
+**Ph.D. in Economics**, Graduate School of Economics, Osaka University, March 2014
+
+**M.A. in Economics**, Graduate School of Economics, Osaka University, March 2011
+
+**B.A. in Commerce and Management**, Faculty of Commerce and Management, Hitotsubashi University, March 2009
+
+# Working Experience
+
+**Associate Professor**, College of Comprehensive Psychology, Ritsumeikan University, April 2017 - Present
+
+**Post Doctoral Fellow**, Research Institute for Socionetwork Strategies, Kansai University, October 2014 - March 2017
+
+**Specially Appointed Researcher**, Institute for Social and Economic Research, Osaka University, April 2014 - October 2014
+
+# Other Professional Positions
+
+**Researcher**, Research Institute for Socionetwork Strategies, Kansai University, April 2018 - Present
+
+# Publications
+
+## Peer-Reviewed Journal Articles
+
+Nakamoto, Y. & **Mori, T.** (2025). The unskilled-and-unaware problem and performance feedback in monotonous, easily accustomed, and repetitive work. *Scientific Reports*, 15, 4222. https://doi.org/10.1038/s41598-025-88457-8
+
+Morita, S. & **Mori, T.** (2024). The Ratchet Effect and the Probability of Proceeding to the Next Stage: An Experiment. *Bulletin of Economic Research*, 76, 797-812. https://doi.org/10.1111/boer.12448
+
+Kawamura, T., Koyama, Y., **Mori, T.**, Motonishi, T., & Ogawa, K. (2023). Loot Box Gambling and Economic Preferences: A Survey Analysis of Japanese Adolescents and Young Adults. *Applied Economics*, 55(44), 5213–5229. https://doi.org/10.1080/00036846.2022.2138817
+
+Kawamura, T., **Mori, T.**, Motonishi, T., & Ogawa, K. (2022). Positive versus Negative Graphics for Increasing Attendance in a Cardiovascular Disease Prevention Program: A Randomized Controlled Trial. *Journal of Behavioral Economics and Finance*, 15, 22-30. https://doi.org/10.11167/jbef.15.22
+
+**Mori, T.**, Kurokawa, H., & Ohtake, F. (2022). Labor Supply Reaction to Wage Cuts and Tax Increases: A Real-Effort Experiment. *FinanzArchiv/Public Finance Analysis*, 78(3), 362-377. https://doi.org/10.1628/fa-2022-0008
+
+Kawamura, T., **Mori, T.**, Motonishi, T., & Ogawa, K. (2021). Is Financial Literacy Dangerous? Financial Literacy, Behavioral Factors, and Financial Choices of Households. *Journal of the Japanese and International Economies*, 60, 101131. https://doi.org/10.1016/j.jjie.2021.101131
+
+**Mori, T.**, Kurokawa, H., & Ohtake, F. (2020). A Choice Experiment on Taxes: Are Income and Consumption Taxes Equivalent? *Journal of Behavioral Economics and Finance*, 13, 53-70. https://doi.org/10.11167/jbef.13.53
+
+## Journal Articles (Not Peer-Reviewed)
+
+**Mori, T.** (2023). Behavioral Economics of Taxation and Benefits. *Public Policy Review*, 19(4), 1-28. https://doi.org/10.57520/prippr.19-4-3
+
+## Working Papers
+
+**Mori, T.** & Takii, K. (2025). The Effect of Coarse Score Labels on College Application Decisions. OSIPP Discussion Paper No. 25E002.
+
+Kitano, T., **Mori, T.**, Nakajima, R., & Takii, K. (2025). Distance to Medical Schools and Its Impact on the Gender Gap in Admissions: An Equilibrium Approach. Keio-IES Discussion Paper No. DP2025-006.
+
+Nakamoto, Y., **Mori, T.**, & Okuyama, N. (2016). Ambiguity and Loss aversion: The Effect of the Endowment and Windfall Losses on the Willingness to Pay for Insurance. RISS Discussion Paper No. 85.
+
+*Note: For Japanese language publications, please refer to the Japanese version of the CV.*
+
+# Fellowships and Research Grants
+
+## As a Research Leader
+
+Grant-in-Aid for Challenging Research (Exploratory), Japan Society for the Promotion of Science (JSPS), 2022 - Present
+
+Fund for Supporting Young Scholars, Kansai University, 2016 - 2017
+
+Grant-in-Aid for Young Scientists (B), JSPS, 2015 - 2016
+
+Research Fellowship for Young Scientists (DC2), JSPS, 2012 - 2014
+
+Torii Fellowship, Suntory Foundation, 2011 - 2012
+
+Invited Participant, Asia Summer Institute of Behavioral Economics, National University of Singapore, 2011
+
+## As a Research Member
+
+Grant-in-Aid for Challenging Research (Exploratory), JSPS, Research member (Leader: Masaru Sasaki), 2020 - 2024
+
+Grant-in-Aid for Scientific Research (C), JSPS, Research member (Leader: Taizo Motonishi), 2019 - 2023
+
+Grant-in-Aid for Scientific Research (A), JSPS, Research member (Leader: Katsuya Takii), 2018 - 2023
+
+Topic-Setting Program to Advance Cutting-Edge Humanity and Social Science Research, JSPS, Research member (Leader: Masaru Sasaki), 2016 - 2018
+
+Grant-in-Aid for Scientific Research (A), JSPS, Research member (Leader: Katsuya Takii), 2015 - 2017
+
+## Joint Research with Industry
+
+Miidas Co., Ltd., Joint research on behavioral economics of job transitions, 2021 - Present
+
+# Research Presentations
+
+**2025:** ESA Asia-Pacific Meeting, ESA World Meeting, Workshop on the economics of human resource allocation, 19th Annual Meeting of Association of Behavioral Economics and Finance
+
+**2024:** Workshop on the economics of human resource allocation, Kansai Labor Seminar
+
+**2023:** Workshop on the economics of human resource allocation
+
+**2022:** Keio University
+
+**2021:** Tokyo Labor Economics Workshop
+
+**2020:** Osaka City University, Kansai University
+
+**2019:** Osaka University, Autumn meeting of Japanese Economic Association, Kansai Labor Seminar
+
+**2018:** Osaka University, 12th Annual Meeting of Association of Behavioral Economics and Finance
+
+**2017:** ESA Asia-Pacific Meeting, The 1st Workshop on Behavioral Economics of Social Norm and Public Moral
+
+**2016:** Meiji University
+
+**2015:** Kyoto University, Kyoto University Workshop on Experimental Economics, ESA World Meeting, ESA European Meeting, 9th Annual Meeting of Association of Behavioral Economics and Finance, Kansai University, CEE and RISS Seminar Series on Experimental Economics, The Osaka Workshop on Economics of Institutions and Organization
+
+**2014:** ESA Asia-Pacific Meeting, Workshop for Housing Sciences, Contract Theory Workshop East, ESA International Meeting, Autumn meeting of Japanese Economic Association, CEE and RISS Seminar Series on Experimental Economics, Kansai Labor Seminar
+
+**2013:** ESA Asia-Pacific Meeting, OEIO Tokyo Conference: Spring, Spring meeting of Japanese Economic Association, 9th annual conference of the Asia-Pacific Economic Association, Asian Meeting of Econometric Society, Singapore Economic Review Conference, 16th Labor Economics Conference, 7th Annual Meeting of Association of Behavioral Economics and Finance
+
+**2012:** Applied Microeconomics Theory Workshop, 5th Trans-Pacific Labor Seminar, Kyoto Summer Workshop on Applied Economics, Contract Theory Workshop: Summer Camp in Shinshu, RIETI
+
+**2011:** The Osaka Workshop on Economics of Institutions and Organizations, Spring meeting of Japanese Economic Association, 14th Labor Economics Conference, 6th Applied Econometrics Conference, Osaka Prefecture University
+
+# Professional Activities
+
+## Membership
+
+Association of Behavioral Economics and Finance
+
+- Standing Director, 2025 - Present
+- Director, 2023 - 2025
+
+Association of Urban Housing Sciences
+
+Economic Science Association
+
+Japan Institute of Public Finance
+
+Japanese Economic Association
+
+- Young Researchers and Gender Equality Committee, 2021 - Present
+
+The Japanese Psychological Association
+
+- Education and Research Committee, 2021 - Present
+
+## Program Organization and Committees
+
+Program Committee, 19th Annual Meeting, Association of Behavioral Economics and Finance, 2025
+
+Program Committee, 82nd Annual Meeting, Japan Institute of Public Finance, 2025
+
+Program Committee and Local Organizer, 18th Annual Meeting, Association of Behavioral Economics and Finance, 2024
+
+Program Committee, 17th Annual Meeting, Association of Behavioral Economics and Finance, 2023
+
+Program Committee, Spring Meeting of Japanese Economic Association, 2023
+
+Committee, Best Nudge Award, Association of Behavioral Economics and Finance, 2022
+
+Committee, Education and Research Committee, The Japanese Psychological Association, 2021-2025
+
+Program Committee, 15th Annual Meeting, Association of Behavioral Economics and Finance, 2021
+
+Executive Committee, 78th Annual Meeting, Japan Institute of Public Finance, 2021
+
+Committee, 4th Student Paper Award, Association of Behavioral Economics and Finance, 2021
+
+Program Committee, 22nd Labor Economics Conference, 2019
+
+Program Committee, 21st Labor Economics Conference, 2018
+
+Program Committee, 20th Labor Economics Conference, 2017
+
+Organizer, Kansai Labor Seminar, October 2016 - July 2019
+
+## Refereeing Activities
+
+*Accounting Research Letters*, *Asian Economic Journal*, *Basic Income Studies*, *BMJ Open*, *IEICE Transactions on Information and Systems*, *Journal of Economic Behavior & Organization*, *Journal of the Asia-Japan Research Institute of Ritsumeikan University*, *Kanematsu Prize*, *Social Science Japan Journal*, *The Japanese Journal of Labor Studies*
+
+## Advisory Committees
+
+Committee, Osaka Prefecture Housing Policy Council
+
+Committee, Osaka City Housing Policy Council
+
+Committee, Urban Redevelopment Planning Project, Osaka City
+
+# Awards
+
+**Paper Award**, Association of Urban Housing Sciences, 2015
+
+**Encouragement Award**, 7th Annual Meeting of Association of Behavioral Economics and Finance, 2013
+
+**The Highest Award for Poster Session**, 16th Labor Economics Conference, 2013
+
+**The Highest Award for Poster Session**, 14th Labor Economics Conference, 2011
+
+# Teaching Experience
+
+Selected Courses (at Ritsumeikan University):
+
+- Economics and Human Behavior
+- Behavioral Economics
+- Statistical Methods in Psychology
+- Multivariate Data Analysis
+- Seminar and Thesis Supervision (Undergraduate and Graduate)
+
+# Languages
+
+- Japanese (Native)
+- English (Fluent)
+
+# Technical Skills
+
+- **Statistical Software:** R, Stata
+- **Survey Platform:** Qualtrics XM
+- **Typesetting:** LaTeX, Markdown
+
+---
+
+*Last updated: `r format(Sys.time(), '%B %Y')`*

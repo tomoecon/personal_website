@@ -1,42 +1,250 @@
+/* Custom CSS for Academic Website */
+
+/* General styling */
 body {
-  font-size: 16px;
-  line-height: 28px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.6;
 }
 
-p {
-  line-height: 24px;
-}
-
-a {
-  color: dimgray;
-}
-
+/* Heading borders */
 h1 {
-  font-size: 28px;
+  border-bottom: 2px solid #d0e8d9;
+  padding-bottom: 0.3em;
 }
+
 h2 {
-  font-size: 24px;
+  border-bottom: 1px solid #d0e8d9;
+  padding-bottom: 0.2em;
 }
-h3 {
-  font-size: 20px;
+
+/* Link styling */
+a {
+  color: #2d8659;
+  text-decoration: none;
 }
-h4 {
-  font-size: 20px;
+
+a:hover {
+  color: #1e7e44;
+  text-decoration: underline;
 }
-h5 {
-  font-size: 16px;
+
+/* Publications and paper lists */
+.publication-item {
+  margin-bottom: 1.5em;
 }
-h6 {
-  font-size: 12px;
+
+/* Better spacing for lists */
+ul, ol {
+  margin-bottom: 1em;
 }
+
+li {
+  margin-bottom: 0.3em;
+}
+
+/* Blockquote styling for abstracts */
+blockquote {
+  border-left: 4px solid #2d8659;
+  padding-left: 1em;
+  margin-left: 0;
+  color: #555;
+  font-style: italic;
+}
+
+/* Code blocks */
+pre {
+  background-color: #f5f5f5;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 1em;
+  overflow-x: auto;
+}
+
+code {
+  background-color: #f5f5f5;
+  padding: 2px 4px;
+  border-radius: 3px;
+  font-size: 0.9em;
+}
+
+/* Table styling */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1em 0;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #e8f5ee;
+  font-weight: bold;
+}
+
+/* Image styling */
 img {
-    display: block;
-    margin: auto;
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
 }
 
-img-circle {
-    border-radius: 50%;
+/* Horizontal rule */
+hr {
+  border: 0;
+  height: 1px;
+  background: #e0e0e0;
+  margin: 2em 0;
 }
 
+/* Footer styling */
+footer {
+  margin-top: 3em;
+  padding-top: 1em;
+  border-top: 1px solid #e0e0e0;
+  color: #666;
+  font-size: 0.9em;
+}
 
+/* Navbar customization */
+.navbar {
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
 
+/* ナビゲーションバーの垂直方向の中央揃え */
+.navbar-container {
+  display: flex !important;
+  align-items: center !important;
+}
+
+.navbar-brand-container {
+  display: flex !important;
+  align-items: center !important;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.navbar-nav {
+  display: flex !important;
+  align-items: center !important;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.nav-item {
+  display: flex !important;
+  align-items: center !important;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.navbar-brand {
+  display: flex !important;
+  align-items: center !important;
+  padding-top: 0.5rem !important;
+  padding-bottom: 0.5rem !important;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.navbar-nav .nav-link {
+  display: flex !important;
+  align-items: center !important;
+  padding-top: 0.5rem !important;
+  padding-bottom: 0.5rem !important;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.navbar-title {
+  line-height: 1 !important;
+  font-size: 1.25rem !important;
+  vertical-align: baseline !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  font-weight: 700 !important;
+}
+
+.menu-text {
+  line-height: 1 !important;
+  font-size: 1.1rem !important;
+  vertical-align: baseline !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* Responsive images in content */
+.quarto-figure {
+  margin: 1em 0;
+}
+
+/* News/updates section */
+.news-item {
+  margin-bottom: 1em;
+}
+
+.news-date {
+  font-weight: bold;
+  color: #2d8659;
+}
+
+/* CV section styling */
+.cv-section {
+  margin-bottom: 2em;
+}
+
+/* Contact information styling */
+.contact-info {
+  line-height: 1.8;
+}
+
+/* Improve Japanese text readability */
+:lang(ja) {
+  line-height: 1.8;
+}
+
+/* Print styles */
+@media print {
+  .navbar, footer {
+    display: none;
+  }
+
+  a[href]:after {
+    content: " (" attr(href) ")";
+  }
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  body {
+    font-size: 16px;
+  }
+
+  h1 {
+    font-size: 1.8em;
+  }
+
+  h2 {
+    font-size: 1.5em;
+  }
+}
+
+/* Additional green theme enhancements */
+.btn-primary {
+  background-color: #2d8659;
+  border-color: #2d8659;
+}
+
+.btn-primary:hover {
+  background-color: #1e7e44;
+  border-color: #1e7e44;
+}
+
+/* Table of contents */
+.sidebar nav[role="doc-toc"] ul > li > a.active {
+  border-left: 2px solid #2d8659;
+  color: #2d8659;
+}

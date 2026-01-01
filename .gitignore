@@ -1,4 +1,22 @@
+/.quarto/
+/_site/
+/docs/.DS_Store
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
+*.Rproj
+.DS_Store
+
+# CV generation intermediate files
+cv-full.pdf
+cv-full.tex
+cv-full.log
+cv-full.aux
+cv-full-ja.pdf
+cv-full-ja.tex
+cv-full-ja.log
+cv-full-ja.aux
+*.sty
+colors.tex
+moderncv.cls

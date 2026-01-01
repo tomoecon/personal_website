@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs        # GitHub Pages publishes from docs/ directory
+  render:
+    - "*.qmd"
+    - "!AGENTS.md"
+    - "!README.md"
+
+website:
+  title: "Tomoharu Mori"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "CV"
+        href: cv.qmd
+
+format:
+  html:
+    theme: [cosmo, custom.scss]
+    css: styles.css
+    toc: true
+    toc-depth: 2
+    toc-title: "Contents"

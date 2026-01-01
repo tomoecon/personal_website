@@ -1,0 +1,112 @@
+/*-- scss:defaults --*/
+
+// 緑をベースにしたカラーパレット
+$primary: #2d8659 !default;
+$success: #27ae60 !default;
+$info: #45b39d !default;
+$link-color: #2d8659 !default;
+$link-hover-color: #1e7e44 !default;
+
+// ナビゲーションバーの色
+$navbar-bg: #2d8659 !default;
+$navbar-fg: #ffffff !default;
+
+/*-- scss:rules --*/
+
+// ナビゲーションバーのカスタマイズ
+.navbar {
+  background-color: $primary !important;
+}
+
+.navbar-brand, .navbar-nav .nav-link {
+  color: white !important;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #d0e8d9 !important;
+}
+
+// ナビゲーションバーの垂直方向の中央揃え
+.navbar-container {
+  display: flex !important;
+  align-items: center !important;
+}
+
+.navbar-brand-container {
+  display: flex !important;
+  align-items: center !important;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.navbar-nav {
+  display: flex !important;
+  align-items: center !important;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.nav-item {
+  display: flex !important;
+  align-items: center !important;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.navbar-brand {
+  display: flex !important;
+  align-items: center !important;
+  padding-top: 0.5rem !important;
+  padding-bottom: 0.5rem !important;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.navbar-nav .nav-link {
+  display: flex !important;
+  align-items: center !important;
+  padding-top: 0.5rem !important;
+  padding-bottom: 0.5rem !important;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.navbar-title {
+  line-height: 1 !important;
+  font-size: 1.25rem !important;
+  vertical-align: baseline !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  font-weight: 700 !important;
+}
+
+.menu-text {
+  line-height: 1 !important;
+  font-size: 1.1rem !important;
+  vertical-align: baseline !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+// 見出しの間隔調整
+// h1（見出し1）: 大きなセクションの区切り
+h1 {
+  margin-top: 2rem !important;
+  margin-bottom: 1rem !important;
+}
+
+// h2（見出し2）: 小セクションの区切り
+h2 {
+  margin-top: 2rem !important;
+  margin-bottom: 1rem !important;
+}
+
+// h1のすぐ後にh2が来る場合: h1とh2の間を少し広げる
+h1 + h2 {
+  margin-top: 1.5rem !important;
+}
+
+// h2が連続する場合: h2同士の間を少し広げる
+h2 + h2 {
+  margin-top: 1.5rem !important;
+}

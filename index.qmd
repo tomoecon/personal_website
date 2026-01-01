@@ -1,0 +1,26 @@
+---
+title: "Home"
+---
+
+I am **Tomoharu Mori**, an Associate Professor at the College of Comprehensive Psychology, Ritsumeikan University. My research background is in **Economics**, specializing in behavioral economics, labor economics, and public economics.
+
+I received my Ph.D. in economics from the University of Osaka. My work explores how psychological factors influence economic decision-making, with particular emphasis on labor market behavior and public policy design. I employ both experimental and empirical methods to understand human behavior in economic contexts.
+
+私は立命館大学総合心理学部准教授の**森知晴**です。専門は**経済学**で、行動経済学、労働経済学、公共経済学を研究しています。
+
+大阪大学で経済学の博士号を取得しました。心理的要因が経済的意思決定にどのように影響するかを研究しており、特に労働市場の行動と公共政策の設計に焦点を当てています。実験的手法と実証的手法の両方を用いて、経済的文脈における人間行動の理解に取り組んでいます。
+
+## Research Interests
+
+- Behavioral Economics / 行動経済学
+- Labor Economics / 労働経済学
+- Public Economics / 公共経済学
+- Experimental Economics / 実験経済学
+
+## Recent News
+
+- **January 2026**: Launched my new academic website. / 新しいウェブサイトを公開しました。
+
+---
+
+*Last updated: January 2026*
