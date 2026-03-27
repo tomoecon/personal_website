@@ -1,12 +1,11 @@
 /.quarto/
 /_site/
-/docs/.DS_Store
+.DS_Store
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
 *.Rproj
-.DS_Store
 
 # CV generation intermediate files
 cv-full.pdf
