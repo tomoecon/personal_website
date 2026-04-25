@@ -19,3 +19,51 @@ cv-full-ja.aux
 *.sty
 colors.tex
 moderncv.cls
+
+# === macOS ===
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# === Quarto ===
+_book/
+_output/
+*_files/
+*_cache/
+
+# === R ===
+.httr-oauth
+renv/library/
+renv/staging/
+
+# === Secrets ===
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+secrets.*
+credentials.*
+
+# === TeX ===
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.nav
+*.snm
+*.vrb
+*.xdv
