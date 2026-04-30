@@ -19,8 +19,10 @@ I received my Ph.D. in economics from the University of Osaka. My work explores 
 
 ## Recent News
 
+- **April 2026**: Our paper "The effects of multiple disaster forecasters on the willingness-to-pay for the insurance in the gain and loss domains: Theory and a laboratory experiment" (with Yasuhiro Nakamoto and Naoko Okuyama) was published in *International Review of Financial Analysis*. / 中元康裕氏・奥山尚子氏との共著論文が *International Review of Financial Analysis* 誌に掲載されました。[DOI](https://doi.org/10.1016/j.irfa.2026.105161)
+- **April 2026**: Added a Japanese version of the [CV page](cv-ja.qmd). / [日本語版のCVページ](cv-ja.qmd)を追加しました。
 - **January 2026**: Launched my new academic website. / 新しいウェブサイトを公開しました。
 
 ---
 
-*Last updated: January 2026*
+*Last updated: April 2026*

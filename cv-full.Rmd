@@ -30,7 +30,7 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 {\large Associate Professor}\\[0.2cm]
 College of Comprehensive Psychology, Ritsumeikan University\\
 2-150 Iwakura-cho, Ibaraki, Osaka 567-8570, JAPAN\\
-Email: tmr15047@fc.ritsumei.ac.jp
+Email: tmr15047 [atmark] fc.ritsumei.ac.jp
 \end{center}
 
 \vspace{0.3cm}
@@ -57,13 +57,23 @@ Citizenship: Japan
 
 **Specially Appointed Researcher**, Institute for Social and Economic Research, Osaka University, April 2014 - October 2014
 
+**Research Fellow (DC2)**, Japan Society for the Promotion of Science (JSPS), April 2012 - March 2014
+
 # Other Professional Positions
 
 **Researcher**, Research Institute for Socionetwork Strategies, Kansai University, April 2018 - Present
 
+**Part-time Lecturer**, College of Economics, Ritsumeikan University, 2015 - 2016
+
+**Part-time Lecturer**, Faculty of Policy Studies, Kansai University, 2015 - 2016
+
+**Part-time Lecturer**, College of Sustainable System Sciences, Osaka Prefecture University, 2015 - 2016
+
 # Publications
 
 ## Peer-Reviewed Journal Articles
+
+Nakamoto, Y., **Mori, T.**, & Okuyama, N. (2026). The effects of multiple disaster forecasters on the willingness-to-pay for the insurance in the gain and loss domains: Theory and a laboratory experiment. *International Review of Financial Analysis*, 114, 105161. https://doi.org/10.1016/j.irfa.2026.105161
 
 Nakamoto, Y. & **Mori, T.** (2025). The unskilled-and-unaware problem and performance feedback in monotonous, easily accustomed, and repetitive work. *Scientific Reports*, 15, 4222. https://doi.org/10.1038/s41598-025-88457-8
 
@@ -89,15 +99,13 @@ Kawamura, T., **Mori, T.**, Motonishi, T., & Ogawa, K. (2021). Is Financial Lite
 
 Kitano, T., **Mori, T.**, Nakajima, R., & Takii, K. (2025). Distance to Medical Schools and Its Impact on the Gender Gap in Admissions: An Equilibrium Approach. Keio-IES Discussion Paper No. DP2025-006.
 
-Nakamoto, Y., **Mori, T.**, & Okuyama, N. (2016). Ambiguity and Loss aversion: The Effect of the Endowment and Windfall Losses on the Willingness to Pay for Insurance. RISS Discussion Paper No. 85.
-
 *Note: For Japanese language publications, please refer to the Japanese version of the CV.*
 
 # Fellowships and Research Grants
 
 ## As a Research Leader
 
-Grant-in-Aid for Challenging Research (Exploratory), Japan Society for the Promotion of Science (JSPS), 2022 - Present
+Grant-in-Aid for Challenging Research (Exploratory), Japan Society for the Promotion of Science (JSPS), 2022 - 2026
 
 Fund for Supporting Young Scholars, Kansai University, 2016 - 2017
 
@@ -126,6 +134,8 @@ Grant-in-Aid for Scientific Research (A), JSPS, Research member (Leader: Katsuya
 Miidas Co., Ltd., Joint research on behavioral economics of job transitions, 2021 - Present
 
 # Research Presentations
+
+**2026:** Japanese Cognitive Science Society SIG on Computational Cognitive Science
 
 **2025:** ESA Asia-Pacific Meeting, ESA World Meeting, Workshop on the economics of human resource allocation, 19th Annual Meeting of Association of Behavioral Economics and Finance
 
@@ -178,7 +188,7 @@ Japanese Economic Association
 
 The Japanese Psychological Association
 
-- Education and Research Committee, 2021 - Present
+- Education and Research Committee, 2021 - 2026
 
 ## Program Organization and Committees
 
@@ -192,15 +202,13 @@ Program Committee, 17th Annual Meeting, Association of Behavioral Economics and 
 
 Program Committee, Spring Meeting of Japanese Economic Association, 2023
 
-Committee, Best Nudge Award, Association of Behavioral Economics and Finance, 2022
-
-Committee, Education and Research Committee, The Japanese Psychological Association, 2021-2025
+Committee, Education and Research Committee, The Japanese Psychological Association, 2021 - 2026
 
 Program Committee, 15th Annual Meeting, Association of Behavioral Economics and Finance, 2021
 
 Executive Committee, 78th Annual Meeting, Japan Institute of Public Finance, 2021
 
-Committee, 4th Student Paper Award, Association of Behavioral Economics and Finance, 2021
+Committee, 4th Student Paper Contest, Association of Behavioral Economics and Finance, 2021
 
 Program Committee, 22nd Labor Economics Conference, 2019
 
@@ -213,14 +221,6 @@ Organizer, Kansai Labor Seminar, October 2016 - July 2019
 ## Refereeing Activities
 
 *Accounting Research Letters*, *Asian Economic Journal*, *Basic Income Studies*, *BMJ Open*, *IEICE Transactions on Information and Systems*, *Journal of Economic Behavior & Organization*, *Journal of the Asia-Japan Research Institute of Ritsumeikan University*, *Kanematsu Prize*, *Social Science Japan Journal*, *The Japanese Journal of Labor Studies*
-
-## Advisory Committees
-
-Committee, Osaka Prefecture Housing Policy Council
-
-Committee, Osaka City Housing Policy Council
-
-Committee, Urban Redevelopment Planning Project, Osaka City
 
 # Awards
 
@@ -245,7 +245,7 @@ Selected Courses (at Ritsumeikan University):
 # Languages
 
 - Japanese (Native)
-- English (Fluent)
+- English
 
 # Technical Skills
 
