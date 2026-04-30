@@ -1,0 +1,154 @@
+---
+title: "履歴書"
+lang: ja
+---
+
+*詳細版は [cv-full-ja.pdf](cv-full-ja.pdf) をご覧ください。*
+
+## 森 知晴 (Tomoharu Mori)
+
+**立命館大学総合心理学部 准教授**
+
+〒567-8570 大阪府茨木市岩倉町2-150
+
+Email: tmr15047 [atmark] fc.ritsumei.ac.jp
+
+## 学歴
+
+**博士（経済学）**、大阪大学大学院経済学研究科博士後期課程修了、2014年3月
+
+**修士（経済学）**、大阪大学大学院経済学研究科博士前期課程修了、2011年3月
+
+**学士（経営学）**、一橋大学商学部卒業、2009年3月
+
+## 職歴
+
+**准教授**、立命館大学総合心理学部、2017年4月 - 現在
+
+**ポスト・ドクトラル・フェロー**、関西大学ソシオネットワーク戦略研究機構、2014年10月 - 2017年3月
+
+**特任研究員**、大阪大学社会経済研究所、2014年4月 - 2014年10月
+
+**特別研究員（DC2）**、日本学術振興会、2012年4月 - 2014年3月
+
+## 研究助成
+
+### 研究代表者
+
+科学研究費助成事業 挑戦的研究（萌芽）、日本学術振興会、2022年 - 2026年
+
+若手研究者育成経費、関西大学、2016年 - 2017年
+
+科学研究費助成事業 若手研究（B）、日本学術振興会、2015年 - 2016年
+
+科学研究費助成事業 特別研究員奨励費（DC2）、日本学術振興会、2012年 - 2014年
+
+鳥井フェローシップ、サントリー文化財団、2011年 - 2012年
+
+Invited Participant, Asia Summer Institute of Behavioral Economics, National University of Singapore, 2011
+
+### 産学連携共同研究
+
+株式会社ミイダス、転職に関する行動経済学的研究、2021年 - 現在
+
+## 業績
+
+### 査読付き論文（英文）
+
+Nakamoto, Y., **Mori, T.**, & Okuyama, N. (2026). The effects of multiple disaster forecasters on the willingness-to-pay for the insurance in the gain and loss domains: Theory and a laboratory experiment. *International Review of Financial Analysis*, 114, 105161. <https://doi.org/10.1016/j.irfa.2026.105161>
+
+Nakamoto, Y. & **Mori, T.** (2025). The unskilled-and-unaware problem and performance feedback in monotonous, easily accustomed, and repetitive work. *Scientific Reports*, 15, 4222. <https://doi.org/10.1038/s41598-025-88457-8>
+
+Morita, S. & **Mori, T.** (2024). The Ratchet Effect and the Probability of Proceeding to the Next Stage: An Experiment. *Bulletin of Economic Research*, 76, 797-812. <https://doi.org/10.1111/boer.12448>
+
+Kawamura, T., Koyama, Y., **Mori, T.**, Motonishi, T., & Ogawa, K. (2023). Loot Box Gambling and Economic Preferences: A Survey Analysis of Japanese Adolescents and Young Adults. *Applied Economics*, 55(44), 5213–5229. <https://doi.org/10.1080/00036846.2022.2138817>
+
+Kawamura, T., **Mori, T.**, Motonishi, T., & Ogawa, K. (2022). Positive versus Negative Graphics for Increasing Attendance in a Cardiovascular Disease Prevention Program: A Randomized Controlled Trial. *Journal of Behavioral Economics and Finance*, 15, 22-30. <https://doi.org/10.11167/jbef.15.22>
+
+**Mori, T.**, Kurokawa, H., & Ohtake, F. (2022). Labor Supply Reaction to Wage Cuts and Tax Increases: A Real-Effort Experiment. *FinanzArchiv/Public Finance Analysis*, 78(3), 362-377. <https://doi.org/10.1628/fa-2022-0008>
+
+Kawamura, T., **Mori, T.**, Motonishi, T., & Ogawa, K. (2021). Is Financial Literacy Dangerous? Financial Literacy, Behavioral Factors, and Financial Choices of Households. *Journal of the Japanese and International Economies*, 60, 101131. <https://doi.org/10.1016/j.jjie.2021.101131>
+
+**Mori, T.**, Kurokawa, H., & Ohtake, F. (2020). A Choice Experiment on Taxes: Are Income and Consumption Taxes Equivalent? *Journal of Behavioral Economics and Finance*, 13, 53-70. <https://doi.org/10.11167/jbef.13.53>
+
+### 査読なし論文（英文）
+
+**Mori, T.** (2023). Behavioral Economics of Taxation and Benefits. *Public Policy Review*, 19(4), 1-28. <https://doi.org/10.57520/prippr.19-4-3>
+
+### Working Papers
+
+**Mori, T.** & Takii, K. (2025). The Effect of Coarse Score Labels on College Application Decisions. OSIPP Discussion Paper No. 25E002.
+
+Kitano, T., **Mori, T.**, Nakajima, R., & Takii, K. (2025). Distance to Medical Schools and Its Impact on the Gender Gap in Admissions: An Equilibrium Approach. Keio-IES Discussion Paper No. DP2025-006.
+
+### 査読付き論文（和文）
+
+**森 知晴**・大竹文雄 (2014)「期限付きキャッシュバック制度が退去行動に与える影響：大阪市住宅供給公社の事例」『都市住宅学』84, 90-98. <https://doi.org/10.11531/uhs.2014.84_90>
+
+### 査読なし論文（和文）
+
+**森 知晴** (2023)「課税・給付と行動経済学」『フィナンシャル・レビュー』151(1), 83-106.
+
+**森 知晴** (2020)「行動経済学が労働研究に与えうる影響」『日本労働研究雑誌』714, 3-13. [Link](https://www.jil.go.jp/institute/zassi/backnumber/2020/01/pdf/003-013.pdf)
+
+小川一仁・川村哲也・小山友介・本西泰三・**森 知晴** (2019)「日本の小中高生はオンラインゲームにどれほど課金しているのか？：教室内アンケートを用いた分析」『情報通信学会誌』37, 47-52. <https://doi.org/10.11430/jsicr.37.1_47>
+
+**森 知晴** (2019)「インターネットを利用した「経済実験」の動向と展望」『日本労働研究雑誌』705, 2-7. [Link](https://www.jil.go.jp/institute/zassi/backnumber/2019/04/pdf/002-007.pdf)
+
+**森 知晴** (2016)「ニーデルレ＝ヴェスタールント「女性は競争嫌い？男性は競争しすぎ？」」『日本労働研究雑誌』660, 24-27. [Link](https://www.jil.go.jp/institute/zassi/backnumber/2016/04/pdf/024-027.pdf)
+
+**森 知晴**・大竹文雄 (2014)「期限付きキャッシュバック制度が退去行動に与える影響：大阪市住宅供給公社の事例」『住宅土地経済』94, 29-35.（『都市住宅学』掲載論文の要約）
+
+大竹文雄・木成勇介・水谷徳子・**森 知晴** (2013)「競争と再分配行動の関係性：経済実験による分析」『行動経済学』6, 81-84. <https://doi.org/10.11167/jbef.6.81>
+
+**森 知晴** (2012)「論文Today 何を与えれば、人はより働くのか？―フィールド実験による検証」『日本労働研究雑誌』621, 90-91. [Link](https://www.jil.go.jp/institute/zassi/backnumber/2012/04/pdf/090-091.pdf)
+
+**森 知晴**・大竹文雄 (2010)「労働課税の行動経済学的分析」『日本労働研究雑誌』605, 68-75. [Link](https://www.jil.go.jp/institute/zassi/backnumber/2010/12/pdf/068-075.pdf)
+
+### 記事（新聞・雑誌等）
+
+**森 知晴** (2023)「政府による「ナッジ」に意外と同意しない日本人：「慎重型支持」から「選択的支持」へと変化」『週刊東洋経済』2023年11月4日号. [Link](https://toyokeizai.net/articles/-/711080)
+
+**森 知晴** (2023)「（行動）経済学の領域から」『心理学ワールド』101, 14-15. [Link](https://psych.or.jp/publication/world101/pw14/)
+
+**森 知晴** (2022)「やさしい経済学「実験で考える労働生産性」」『日本経済新聞』2022年5月17日〜5月30日（全10回）. [Link](https://note.com/tomo_econ/n/na84bca18a8f9)
+
+**森 知晴** (2020)「金融リテラシーの向上、プラスの影響だけ？：望ましい金融教育や介入のあり方について議論が必要」『週刊東洋経済』6907, 94-95. [Link](https://toyokeizai.net/articles/-/570453)
+
+**森 知晴** (2020)「書評：ハロルド・ウィンター著『やりすぎの経済学』」『週刊読書人』3331, 6.
+
+**森 知晴** (2019)「最低賃金の決定過程と地域間格差に関する考察」『統計』70(12), 27-32.
+
+**森 知晴** (2017)「最低賃金とは何か：決定要因と労働市場に与える影響」『経済セミナー』693, 43-47.
+
+**森 知晴** (2013)「海外論文SURVEY vol.42 セルフコントロールと労働生産性：１年に渡るフィールド実験」『経済セミナー』674, 66-68.
+
+**森 知晴** (2013)「海外論文SURVEY vol.39 私の給料・・・低すぎ？：賃金格差と仕事の満足度」『経済セミナー』671, 125-127.
+
+**森 知晴** (2012)「海外論文SURVEY vol.35 ターゲットは１つではない：タクシー運転手の労働供給行動」『経済セミナー』668, 109-111.
+
+**森 知晴** (2012)「海外論文SURVEY vol.31 お金持ちは利己的か？：所得と援助の関係性」『経済セミナー』665, 109-111.
+
+**森 知晴** (2011)「海外論文SURVEY vol.26 社会的関係と労働生産性：友人の存在は生産性を上げるのか？」『経済セミナー』662, 121-123.
+
+**森 知晴** (2011)「海外論文SURVEY vol.19 最低賃金は労働者の「公平感」に影響を与えるか？：実験室実験による検証」『経済セミナー』659, 108-110.
+
+### 著書（単著）
+
+**森 知晴** (2025)『行動経済学の第一歩』有斐閣（有斐閣ストゥディア）. [Link](https://www.yuhikaku.co.jp/books/detail/9784641151437)
+
+### 著書（分担執筆）
+
+**森 知晴** (2022)「研究発表のコツ」経済セミナー編集部編『経済論文の書き方』日本評論社、第17章. [Link](https://www.nippyo.co.jp/shop/book/8883.html)
+
+**森 知晴**・中室牧子・平賀一希・室岡健志 (2022)「座談会「論文の書き方はどう教えている？」」経済セミナー編集部編『経済論文の書き方』日本評論社、第1章. [Link](https://www.nippyo.co.jp/shop/book/8883.html)
+
+**森 知晴**・佐々木勝 (2017)「労働経済学における実験的手法」川口大司編『日本の労働市場：経済学者の視点』有斐閣、第13章, 342-366. [Link](http://www.yuhikaku.co.jp/books/detail/9784641165120)
+
+**森 知晴** (2013)「最低賃金と労働者の「やる気」―経済実験によるアプローチ―」大竹文雄・川口大司・鶴光太郎編著『最低賃金改革：日本の働き方をいかに変えるか』日本評論社、第5章, 113-138. [Link](https://www.nippyo.co.jp/shop/book/6257.html)
+
+玉田桂子・**森 知晴** (2013)「最低賃金の決定過程と生活保護基準の検証」大竹文雄・川口大司・鶴光太郎編著『最低賃金改革：日本の働き方をいかに変えるか』日本評論社、第6章, 139-168. [Link](https://www.nippyo.co.jp/shop/book/6257.html)
+
+---
+
+最終更新：2026年4月
