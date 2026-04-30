@@ -7,12 +7,10 @@
 .Ruserdata
 *.Rproj
 
-# CV generation intermediate files
-cv-full.pdf
+# CV generation intermediate files (PDFs themselves are tracked as resources)
 cv-full.tex
 cv-full.log
 cv-full.aux
-cv-full-ja.pdf
 cv-full-ja.tex
 cv-full-ja.log
 cv-full-ja.aux
@@ -67,3 +65,5 @@ credentials.*
 *.snm
 *.vrb
 *.xdv
+
+**/*.quarto_ipynb

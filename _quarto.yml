@@ -5,6 +5,9 @@ project:
     - "*.qmd"
     - "!AGENTS.md"
     - "!README.md"
+  resources:
+    - "cv-full.pdf"
+    - "cv-full-ja.pdf"
 
 website:
   title: "Tomoharu Mori"
@@ -14,6 +17,8 @@ website:
         href: index.qmd
       - text: "CV"
         href: cv.qmd
+      - text: "CV（日本語）"
+        href: cv-ja.qmd
 
 format:
   html:

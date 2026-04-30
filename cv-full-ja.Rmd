@@ -1,0 +1,321 @@
+---
+title: ""
+author: ""
+date: ""
+output:
+  pdf_document:
+    latex_engine: xelatex
+    keep_tex: false
+fontsize: 11pt
+geometry: margin=1in
+mainfont: "Palatino"
+CJKmainfont: "Hiragino Mincho ProN"
+header-includes:
+  - \usepackage{titlesec}
+  - \usepackage{enumitem}
+  - \usepackage{hyperref}
+  - \titleformat{\section}{\large\bfseries}{\thesection}{1em}{}[\titlerule]
+  - \titleformat{\subsection}{\normalsize\bfseries}{\thesubsection}{1em}{}
+  - \titlespacing{\section}{0pt}{12pt}{6pt}
+  - \titlespacing{\subsection}{0pt}{8pt}{4pt}
+  - \setlist{noitemsep, topsep=0pt, partopsep=0pt, parsep=0pt}
+  - \pagenumbering{arabic}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+```
+
+\begin{center}
+{\LARGE\textbf{森 知晴 (Tomoharu Mori)}}\\[0.3cm]
+{\large 准教授}\\[0.2cm]
+立命館大学総合心理学部\\
+〒567-8570 大阪府茨木市岩倉町2-150\\
+Email: tmr15047@fc.ritsumei.ac.jp
+\end{center}
+
+\vspace{0.3cm}
+
+# 個人情報
+
+生年月：1986年7月
+
+国籍：日本
+
+# 学歴
+
+**博士（経済学）**、大阪大学大学院経済学研究科博士後期課程修了、2014年3月
+
+**修士（経済学）**、大阪大学大学院経済学研究科博士前期課程修了、2011年3月
+
+**学士（商学）**、一橋大学商学部卒業、2009年3月
+
+# 職歴
+
+**准教授**、立命館大学総合心理学部、2017年4月 - 現在
+
+**ポスト・ドクトラル・フェロー**、関西大学ソシオネットワーク戦略研究機構、2014年10月 - 2017年3月
+
+**特任研究員**、大阪大学社会経済研究所、2014年4月 - 2014年10月
+
+# その他の役職
+
+**研究員**、関西大学ソシオネットワーク戦略研究機構、2018年4月 - 現在
+
+# 業績
+
+## 査読付き論文（英文）
+
+Nakamoto, Y. & **Mori, T.** (2025). The unskilled-and-unaware problem and performance feedback in monotonous, easily accustomed, and repetitive work. *Scientific Reports*, 15, 4222. https://doi.org/10.1038/s41598-025-88457-8
+
+Morita, S. & **Mori, T.** (2024). The Ratchet Effect and the Probability of Proceeding to the Next Stage: An Experiment. *Bulletin of Economic Research*, 76, 797-812. https://doi.org/10.1111/boer.12448
+
+Kawamura, T., Koyama, Y., **Mori, T.**, Motonishi, T., & Ogawa, K. (2023). Loot Box Gambling and Economic Preferences: A Survey Analysis of Japanese Adolescents and Young Adults. *Applied Economics*, 55(44), 5213–5229. https://doi.org/10.1080/00036846.2022.2138817
+
+Kawamura, T., **Mori, T.**, Motonishi, T., & Ogawa, K. (2022). Positive versus Negative Graphics for Increasing Attendance in a Cardiovascular Disease Prevention Program: A Randomized Controlled Trial. *Journal of Behavioral Economics and Finance*, 15, 22-30. https://doi.org/10.11167/jbef.15.22
+
+**Mori, T.**, Kurokawa, H., & Ohtake, F. (2022). Labor Supply Reaction to Wage Cuts and Tax Increases: A Real-Effort Experiment. *FinanzArchiv/Public Finance Analysis*, 78(3), 362-377. https://doi.org/10.1628/fa-2022-0008
+
+Kawamura, T., **Mori, T.**, Motonishi, T., & Ogawa, K. (2021). Is Financial Literacy Dangerous? Financial Literacy, Behavioral Factors, and Financial Choices of Households. *Journal of the Japanese and International Economies*, 60, 101131. https://doi.org/10.1016/j.jjie.2021.101131
+
+**Mori, T.**, Kurokawa, H., & Ohtake, F. (2020). A Choice Experiment on Taxes: Are Income and Consumption Taxes Equivalent? *Journal of Behavioral Economics and Finance*, 13, 53-70. https://doi.org/10.11167/jbef.13.53
+
+**Mori, T.** & Ohtake, F. (2014). The Effects of Fixed-term Cashback Program on Exit Behavior: The Case of Osaka Municipal Housing Corporation. *Urban Housing Sciences*, 84, 90-98. https://doi.org/10.11531/uhs.2014.84_90
+
+## 査読なし論文（英文）
+
+**Mori, T.** (2023). Behavioral Economics of Taxation and Benefits. *Public Policy Review*, 19(4), 1-28. https://doi.org/10.57520/prippr.19-4-3
+
+## Working Papers
+
+**Mori, T.** & Takii, K. (2025). The Effect of Coarse Score Labels on College Application Decisions. OSIPP Discussion Paper No. 25E002.
+
+Kitano, T., **Mori, T.**, Nakajima, R., & Takii, K. (2025). Distance to Medical Schools and Its Impact on the Gender Gap in Admissions: An Equilibrium Approach. Keio-IES Discussion Paper No. DP2025-006.
+
+Nakamoto, Y., **Mori, T.**, & Okuyama, N. (2016). Ambiguity and Loss aversion: The Effect of the Endowment and Windfall Losses on the Willingness to Pay for Insurance. RISS Discussion Paper No. 85.
+
+## 査読なし論文（和文）
+
+**森 知晴** (2023)「課税・給付と行動経済学」『フィナンシャル・レビュー』151(1), 83-106.
+
+**森 知晴** (2023)「政府による「ナッジ」に意外と同意しない日本人：「慎重型支持」から「選択的支持」へと変化」『週刊東洋経済』2023年11月4日号.
+
+**森 知晴** (2023)「（行動）経済学の領域から」『心理学ワールド』101, 14-15.
+
+**森 知晴** (2022)「やさしい経済学「実験で考える労働生産性」」『日本経済新聞』2022年5月17日〜5月30日（全10回）.
+
+**森 知晴** (2020)「金融リテラシーの向上、プラスの影響だけ？：望ましい金融教育や介入のあり方について議論が必要」『週刊東洋経済』6907, 94-95.
+
+**森 知晴** (2020)「書評：ハロルド・ウィンター著『やりすぎの経済学』」『週刊読書人』3331, 6.
+
+**森 知晴** (2020)「行動経済学が労働研究に与えうる影響」『日本労働研究雑誌』714, 3-13.
+
+小川一仁・川村哲也・小山友介・本西泰三・**森 知晴** (2019)「日本の小中高生はオンラインゲームにどれほど課金しているのか？：教室内アンケートを用いた分析」『情報通信学会誌』37, 47-52. https://doi.org/10.11430/jsicr.37.1_47
+
+**森 知晴** (2019)「最低賃金の決定過程と地域間格差に関する考察」『統計』70(12), 27-32.
+
+**森 知晴** (2019)「インターネットを利用した「経済実験」の動向と展望」『日本労働研究雑誌』705, 2-7.
+
+**森 知晴** (2017)「最低賃金とは何か：決定要因と労働市場に与える影響」『経済セミナー』693, 43-47.
+
+**森 知晴** (2016)「ニーデルレ＝ヴェスタールント「女性は競争嫌い？男性は競争しすぎ？」」『日本労働研究雑誌』660, 24-27.
+
+**森 知晴**・大竹文雄 (2014)「期限付きキャッシュバック制度が退去行動に与える影響：大阪市住宅供給公社の事例」『住宅土地経済』94, 29-35.（『都市住宅学』掲載論文の要約）
+
+**森 知晴** (2013)「海外論文SURVEY vol.42 セルフコントロールと労働生産性：１年に渡るフィールド実験」『経済セミナー』674, 66-68.
+
+**森 知晴** (2013)「海外論文SURVEY vol.39 私の給料・・・低すぎ？：賃金格差と仕事の満足度」『経済セミナー』671, 125-127.
+
+大竹文雄・木成勇介・水谷徳子・**森 知晴** (2013)「競争と再分配行動の関係性：経済実験による分析」『行動経済学』6, 81-84. https://doi.org/10.11167/jbef.6.81
+
+**森 知晴** (2012)「論文Today 何を与えれば、人はより働くのか？―フィールド実験による検証」『日本労働研究雑誌』621, 90-91.
+
+**森 知晴** (2012)「海外論文SURVEY vol.35 ターゲットは１つではない：タクシー運転手の労働供給行動」『経済セミナー』668, 109-111.
+
+**森 知晴** (2012)「海外論文SURVEY vol.31 お金持ちは利己的か？：所得と援助の関係性」『経済セミナー』665, 109-111.
+
+**森 知晴** (2011)「海外論文SURVEY vol.26 社会的関係と労働生産性：友人の存在は生産性を上げるのか？」『経済セミナー』662, 121-123.
+
+**森 知晴** (2011)「海外論文SURVEY vol.19 最低賃金は労働者の「公平感」に影響を与えるか？：実験室実験による検証」『経済セミナー』659, 108-110.
+
+**森 知晴**・大竹文雄 (2010)「労働課税の行動経済学的分析」『日本労働研究雑誌』605, 68-75.
+
+## 著書（単著）
+
+**森 知晴** (2025)『行動経済学の第一歩』有斐閣（有斐閣ストゥディア）.
+
+## 著書（分担執筆）
+
+**森 知晴** (2022)「研究発表のコツ」経済セミナー編集部編『経済論文の書き方』日本評論社、第17章.
+
+**森 知晴**・中室牧子・平賀一希・室岡健志 (2022)「座談会「論文の書き方はどう教えている？」」経済セミナー編集部編『経済論文の書き方』日本評論社、第1章.
+
+**森 知晴**・佐々木勝 (2017)「労働経済学における実験的手法」川口大司編『日本の労働市場：経済学者の視点』有斐閣、第13章, 342-366.
+
+**森 知晴** (2013)「最低賃金と労働者の「やる気」―経済実験によるアプローチ―」大竹文雄・川口大司・鶴光太郎編著『最低賃金改革：日本の働き方をいかに変えるか』日本評論社、第5章, 113-138.
+
+**森 知晴**・玉田桂子 (2013)「最低賃金の決定過程と生活保護基準の検証」大竹文雄・川口大司・鶴光太郎編著『最低賃金改革：日本の働き方をいかに変えるか』日本評論社、第6章, 139-168.
+
+# 研究助成
+
+## 研究代表者
+
+科学研究費助成事業 挑戦的研究（萌芽）、日本学術振興会、2022年4月 - 現在
+
+若手研究者育成経費、関西大学、2016年4月 - 2017年3月
+
+科学研究費助成事業 若手研究（B）、日本学術振興会、2015年4月 - 2016年3月
+
+科学研究費助成事業 特別研究員奨励費（DC2）、日本学術振興会、2012年4月 - 2014年3月
+
+鳥井フェローシップ、サントリー文化財団、2011年9月 - 2012年3月
+
+招聘参加者、Asia Summer Institute of Behavioral Economics、シンガポール国立大学、2011年7月
+
+## 研究分担者等
+
+科学研究費助成事業 挑戦的研究（萌芽）、日本学術振興会、研究分担者（代表：佐々木勝）、2020年 - 2024年
+
+科学研究費助成事業 基盤研究（C）、日本学術振興会、研究分担者（代表：本西泰三）、2019年 - 2023年
+
+科学研究費助成事業 基盤研究（A）、日本学術振興会、研究分担者（代表：瀧井克也）、2018年 - 2023年
+
+課題設定による先導的人文学・社会科学研究推進事業、日本学術振興会、研究分担者（代表：佐々木勝）、2016年 - 2018年
+
+科学研究費助成事業 基盤研究（A）、日本学術振興会、研究分担者（代表：瀧井克也）、2015年 - 2017年
+
+## 産学連携共同研究
+
+株式会社ミイダス、転職に関する行動経済学的研究、2021年 - 現在
+
+# 学会報告
+
+**2025年：** ESA Asia-Pacific Meeting, ESA World Meeting, Workshop on the economics of human resource allocation, 行動経済学会第19回大会
+
+**2024年：** Workshop on the economics of human resource allocation, 関西労働研究会
+
+**2023年：** Workshop on the economics of human resource allocation
+
+**2022年：** 慶應義塾大学
+
+**2021年：** 東京労働経済学ワークショップ
+
+**2020年：** 大阪市立大学、関西大学
+
+**2019年：** 大阪大学、日本経済学会秋季大会、関西労働研究会
+
+**2018年：** 大阪大学、行動経済学会第12回大会
+
+**2017年：** ESA Asia-Pacific Meeting、The 1st Workshop on Behavioral Economics of Social Norm and Public Moral
+
+**2016年：** 明治大学
+
+**2015年：** 京都大学、京都大学実験経済学ワークショップ、ESA World Meeting、ESA European Meeting、行動経済学会第9回大会、関西大学、CEE and RISS Seminar Series on Experimental Economics、The Osaka Workshop on Economics of Institutions and Organization
+
+**2014年：** ESA Asia-Pacific Meeting、Workshop for Housing Sciences、Contract Theory Workshop East、ESA International Meeting、日本経済学会秋季大会、CEE and RISS Seminar Series on Experimental Economics、関西労働研究会
+
+**2013年：** ESA Asia-Pacific Meeting、OEIO Tokyo Conference: Spring、日本経済学会春季大会、9th annual conference of the Asia-Pacific Economic Association、Asian Meeting of Econometric Society、Singapore Economic Review Conference、第16回労働経済学カンファレンス、行動経済学会第7回大会
+
+**2012年：** Applied Microeconomics Theory Workshop、5th Trans-Pacific Labor Seminar、Kyoto Summer Workshop on Applied Economics、Contract Theory Workshop: Summer Camp in Shinshu、RIETI
+
+**2011年：** The Osaka Workshop on Economics of Institutions and Organizations、日本経済学会春季大会、第14回労働経済学カンファレンス、第6回応用計量経済学コンファレンス、大阪府立大学
+
+# 学会・専門活動
+
+## 所属学会
+
+行動経済学会
+
+- 常任理事（2025年 - 現在）
+- 理事（2023年 - 2025年）
+
+日本住宅学会
+
+Economic Science Association
+
+日本財政学会
+
+日本経済学会
+
+- 若手育成・男女共同参画委員会（2021年 - 現在）
+
+日本心理学会
+
+- 教育研究委員会（2021年 - 2025年）
+
+## プログラム委員等
+
+プログラム委員、行動経済学会第19回大会、2025年
+
+プログラム委員、日本財政学会第82回大会、2025年
+
+プログラム委員・現地組織委員、行動経済学会第18回大会、2024年
+
+プログラム委員、行動経済学会第17回大会、2023年
+
+プログラム委員、日本経済学会春季大会、2023年
+
+ベスト・ナッジ賞委員、行動経済学会、2022年
+
+教育研究委員会委員、日本心理学会、2021年 - 2025年
+
+プログラム委員、行動経済学会第15回大会、2021年
+
+組織委員、日本財政学会第78回大会、2021年
+
+第4回学生論文賞委員、行動経済学会、2021年
+
+プログラム委員、第22回労働経済学カンファレンス、2019年
+
+プログラム委員、第21回労働経済学カンファレンス、2018年
+
+プログラム委員、第20回労働経済学カンファレンス、2017年
+
+世話人、関西労働研究会、2016年10月 - 2019年7月
+
+## 査読歴
+
+*Accounting Research Letters*, *Asian Economic Journal*, *Basic Income Studies*, *BMJ Open*, *IEICE Transactions on Information and Systems*, *Journal of Economic Behavior \& Organization*, *Journal of the Asia-Japan Research Institute of Ritsumeikan University*, 兼松フェローシップ, *Social Science Japan Journal*, *日本労働研究雑誌*
+
+# 公的委員
+
+大阪府住生活審議会委員、2024年 - 2026年
+
+大阪市営住宅政策審議会委員
+
+大阪市都市再開発計画事業委員
+
+# 受賞歴
+
+**論文賞**、日本住宅学会、2015年
+
+**奨励賞**、行動経済学会第7回大会、2013年
+
+**ポスター・セッション最優秀賞**、第16回労働経済学カンファレンス、2013年
+
+**ポスター・セッション最優秀賞**、第14回労働経済学カンファレンス、2011年
+
+# 担当授業
+
+立命館大学（主な担当科目）：
+
+- 経済と人間
+- 行動経済論
+- 心理学統計法・心理学統計法（展開）
+- 心理学データ解析法・心理学データ解析法II
+- 専門演習・卒業研究、心理学演習（学部・大学院）
+
+# 言語
+
+- 日本語（母語）
+- 英語（流暢）
+
+# 技術スキル
+
+- **統計ソフトウェア：** R, Stata
+- **調査プラットフォーム：** Qualtrics XM
+- **組版：** LaTeX, Markdown
+
+---
+
+*最終更新：`r format(Sys.time(), '%Y年%m月')`*

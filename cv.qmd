@@ -78,7 +78,7 @@ Kitano, T., **Mori, T.**, Nakajima, R., & Takii, K. (2025). Distance to Medical 
 
 Nakamoto, Y., **Mori, T.**, & Okuyama, N. (2016). Ambiguity and Loss aversion: The Effect of the Endowment and Windfall Losses on the Willingness to Pay for Insurance. RISS Discussion Paper No. 85.
 
-*Note: For Japanese language publications, please refer to the Japanese version of the CV.*
+*Note: For Japanese language publications, please refer to the [Japanese version of the CV](cv-ja.qmd).*
 
 ---
 
