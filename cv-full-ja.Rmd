@@ -88,7 +88,7 @@ Kawamura, T., **Mori, T.**, Motonishi, T., & Ogawa, K. (2022). Positive versus N
 
 Kawamura, T., **Mori, T.**, Motonishi, T., & Ogawa, K. (2021). Is Financial Literacy Dangerous? Financial Literacy, Behavioral Factors, and Financial Choices of Households. *Journal of the Japanese and International Economies*, 60, 101131. https://doi.org/10.1016/j.jjie.2021.101131
 
-**Mori, T.**, Kurokawa, H., & Ohtake, F. (2020). A Choice Experiment on Taxes: Are Income and Consumption Taxes Equivalent? *Journal of Behavioral Economics and Finance*, 13, 53-70. https://doi.org/10.11167/jbef.13.53
+Kurokawa, H., **Mori, T.**, & Ohtake, F. (2020). A Choice Experiment on Taxes: Are Income and Consumption Taxes Equivalent? *Journal of Behavioral Economics and Finance*, 13, 53-70. https://doi.org/10.11167/jbef.13.53
 
 ## 査読なし論文（英文）
 
@@ -243,7 +243,7 @@ Invited Participant, Asia Summer Institute of Behavioral Economics, National Uni
 - 常任理事（2025年 - 現在）
 - 理事（2023年 - 2025年）
 
-日本住宅学会
+都市住宅学会
 
 Economic Science Association
 
@@ -299,7 +299,7 @@ Economic Science Association
 
 # 受賞歴
 
-**論文賞**、日本住宅学会、2015年
+**論文賞**、都市住宅学会、2015年
 
 **奨励賞**、行動経済学会第7回大会、2013年
 
